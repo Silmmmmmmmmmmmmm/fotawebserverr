@@ -10,4 +10,4 @@ DefaultEndpointsProtocol=https;AccountName=fotafwstorage2;AccountKey=79xt7Bov9aG
 HostName=fotadevices.azure-devices.net;DeviceId=fotamaster;SharedAccessKey=RbmlOfiXgz6tuW4IxERLsMmviJYu+AIzVPG6gP0v1qQ=
 
 
-HostName=fotadevices.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=rUYh1yPGbG7duLPE/m1QFxNLii2PP5GvbYhKfOQG6KE=
+HostName=fotadevices.azure-devices.net;DeviceId=fotamaster;SharedAccessKey=RbmlOfiXgz6tuW4IxERLsMmviJYu+AIzVPG6gP0v1qQ=
