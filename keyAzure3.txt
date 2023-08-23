@@ -1,0 +1,7 @@
+DefaultEndpointsProtocol=https;AccountName=fwstorages23;AccountKey=P+u0R3QDt2aajdiigUOxo0zQk5HuxxggetoVdXaZaZOixQg8VEr8rBbSx2mBpoznx9xDFS+YI8Vu+AStSE3qAA==;EndpointSuffix=core.windows.net
+
+
+HostName=cloudiothub.azure-devices.net;DeviceId=device1;SharedAccessKey=YZpaqXHxjSwsP0Pw+eLZ5E0XVL8i2U1AsLliN6e6DUg=
+
+
+fota
