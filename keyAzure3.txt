@@ -5,3 +5,19 @@ HostName=cloudiothub.azure-devices.net;DeviceId=device1;SharedAccessKey=YZpaqXHx
 
 
 fota
+
+
+
+
+
+DATABASES = {
+    'default': {
+        "ENGINE": "django.db.backends.postgresql",
+        "NAME": "database",
+        "USER": "admin1@svrcloudfota",
+        "PASSWORD": "Admin.123456",
+        "HOST": "svrcloudfota.postgres.database.azure.com",
+        "PORT": "5432",
+        "OPTIONS":{
+            "sslmode":"require"
+        },
